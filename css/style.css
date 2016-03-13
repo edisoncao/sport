@@ -113,6 +113,23 @@ ul{
 	opacity:0.5;
 }
 
+table tr th, tr td{
+	border:1px solid blue;
+	padding:5px;
+}
+
+.Games-topic{
+	text-align:center;
+
+}
+.table-wrapper{
+	width:100%;
+	height:auto;
+}
+
+table{
+	margin:0 auto;
+}
 @media(max-width:894px){
 
 .inline-wrapper div{

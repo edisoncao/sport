@@ -130,7 +130,21 @@ table tr th, tr td{
 table{
 	margin:0 auto;
 }
-@media(max-width:894px){
+.container{
+	padding:0 25%;
+
+}
+.container-topic{
+	text-align: center;
+}
+.contact-form input, .contact-form textarea{
+margin:10px;
+font-size:1rem;
+
+}
+
+
+
 
 .inline-wrapper div{
 
@@ -157,4 +171,8 @@ table{
 	height:400px;
 	width:auto;
 }
+}
+h1 {
+	text-align:center;
+	margin-top:150px;
 }
